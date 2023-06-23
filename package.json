@@ -1,8 +1,8 @@
 {
-    "name": "my-bot",
+    "name": "vrc-group-sync",
     "version": "1.0.0",
-    "author": "Kevin Novak",
-    "description": "A discord.js bot template written with TypeScript",
+    "author": "jasonw4331",
+    "description": "A bot which automatically places a VRChat group member into a role based on preconfigured rules",
     "license": "MIT",
     "private": true,
     "engines": {
