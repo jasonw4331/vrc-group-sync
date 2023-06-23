@@ -4,6 +4,7 @@
             "name": "vrc-group-sync",
             "script": "dist/start-manager.js",
             "node_args": ["--enable-source-maps"],
+            "watch": ["dist/"],
             "restart_delay": 10000
         }
     ]
