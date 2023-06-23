@@ -1,7 +1,7 @@
 {
     "bot": {
-        "name": "My Bot",
-        "author": "My Name"
+        "name": "VRChat Groups Synchronizer",
+        "author": "jasonw4331"
     },
     "emojis": {
         "yes": "✅",
