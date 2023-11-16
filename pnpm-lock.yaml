@@ -45,8 +45,8 @@ dependencies:
     specifier: 8.16.1
     version: 8.16.1
   pino-pretty:
-    specifier: 10.2.0
-    version: 10.2.0
+    specifier: 10.2.3
+    version: 10.2.3
   pm2:
     specifier: ^5.3.0
     version: 5.3.0
@@ -2935,13 +2935,6 @@ packages:
     engines: {node: '>=10'}
     dev: false
 
-  /pino-abstract-transport@1.0.0:
-    resolution: {integrity: sha512-c7vo5OpW4wIS42hUVcT5REsL8ZljsUfBjqV/e2sFxmFEFZiq1XLUp5EYLtuDH6PEHq9W1egWqRbnLUP5FuZmOA==}
-    dependencies:
-      readable-stream: 4.4.0
-      split2: 4.2.0
-    dev: false
-
   /pino-abstract-transport@1.1.0:
     resolution: {integrity: sha512-lsleG3/2a/JIWUtf9Q5gUNErBqwIu1tUKTT3dUzaf5DySw9ra1wcqKjJjLX1VTY64Wk1eEOYsVGSaGfCK85ekA==}
     dependencies:
@@ -2949,8 +2942,8 @@ packages:
       split2: 4.2.0
     dev: false
 
-  /pino-pretty@10.2.0:
-    resolution: {integrity: sha512-tRvpyEmGtc2D+Lr3FulIZ+R1baggQ4S3xD2Ar93KixFEDx6SEAUP3W5aYuEw1C73d6ROrNcB2IXLteW8itlwhA==}
+  /pino-pretty@10.2.3:
+    resolution: {integrity: sha512-4jfIUc8TC1GPUfDyMSlW1STeORqkoxec71yhxIpLDQapUu8WOuoz2TTCoidrIssyz78LZC69whBMPIKCMbi3cw==}
     hasBin: true
     dependencies:
       colorette: 2.0.20
@@ -2961,11 +2954,11 @@ packages:
       joycon: 3.1.1
       minimist: 1.2.8
       on-exit-leak-free: 2.1.0
-      pino-abstract-transport: 1.0.0
+      pino-abstract-transport: 1.1.0
       pump: 3.0.0
       readable-stream: 4.4.0
       secure-json-parse: 2.7.0
-      sonic-boom: 3.3.0
+      sonic-boom: 3.7.0
       strip-json-comments: 3.1.1
     dev: false
 
@@ -3530,12 +3523,6 @@ packages:
     dependencies:
       ip: 2.0.0
       smart-buffer: 4.2.0
-    dev: false
-
-  /sonic-boom@3.3.0:
-    resolution: {integrity: sha512-LYxp34KlZ1a2Jb8ZQgFCK3niIHzibdwtwNUWKg0qQRzsDoJ3Gfgkf8KdBTFU3SkejDEIlWwnSnpVdOZIhFMl/g==}
-    dependencies:
-      atomic-sleep: 1.0.0
     dev: false
 
   /sonic-boom@3.7.0:
