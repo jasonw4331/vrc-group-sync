@@ -71,8 +71,8 @@ devDependencies:
     specifier: ^20.10.5
     version: 20.10.5
   '@types/node-schedule':
-    specifier: 2.1.2
-    version: 2.1.2
+    specifier: 2.1.5
+    version: 2.1.5
   '@types/remove-markdown':
     specifier: 0.3.4
     version: 0.3.4
@@ -464,8 +464,8 @@ packages:
   /@types/mime@3.0.1:
     resolution: {integrity: sha512-Y4XFY5VJAuw0FgAqPNd6NNoV44jbq9Bz2L7Rh/J6jLTiHBSBJa9fxqQIvkIld4GsoDOcCbvzOUAbLPsSKKg+uA==}
 
-  /@types/node-schedule@2.1.2:
-    resolution: {integrity: sha512-pNf6vCw14EYbqo0Y1eLGhkyv9RhgvphrxpPk4bd1CqwsWbHCrLSVYpO+9NmKOCUSYwxG6eRaWDR3Y6C+4gtzow==}
+  /@types/node-schedule@2.1.5:
+    resolution: {integrity: sha512-bN0MiplDBUxNMmlEi4iykjLYD7+Ze3DEevzliCn8WYuDwYSPj/5XFh8wZw+YXPLpLxiNWlIONYiQ67g/vowSMA==}
     dependencies:
       '@types/node': 20.10.5
     dev: true
