@@ -52,7 +52,7 @@
         "pm2": "^5.3.1",
         "reflect-metadata": "^0.1.13",
         "remove-markdown": "0.5.0",
-        "vrchat": "^1.16.6"
+        "vrchat": "^1.17.3"
     },
     "devDependencies": {
         "@types/express": "4.17.21",
