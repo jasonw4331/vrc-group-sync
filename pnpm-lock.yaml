@@ -57,8 +57,8 @@ dependencies:
     specifier: 0.5.0
     version: 0.5.0
   vrchat:
-    specifier: ^1.16.6
-    version: 1.16.6
+    specifier: ^1.17.5
+    version: 1.17.5
 
 devDependencies:
   '@types/express':
@@ -3932,8 +3932,8 @@ packages:
       acorn-walk: 8.2.0
     dev: false
 
-  /vrchat@1.16.6:
-    resolution: {integrity: sha512-PtLaZX1PN5eakSIGduLrMhwA5oK3m7yynsJ5hYSAwSLKeh2pgpcUoAUF7ahCMilI5egzwtX0SwZiNjwRHmoqIQ==}
+  /vrchat@1.17.5:
+    resolution: {integrity: sha512-265yUbYyprQAbm8IQzrehTAx+8t9lp2HInTI93wzdTSGdEzjl+8MEul2jtUDlgCp3r6W/2+PKJB6N+j5mvZceg==}
     dependencies:
       '@types/tough-cookie': 4.0.2
       axios: 0.26.1
